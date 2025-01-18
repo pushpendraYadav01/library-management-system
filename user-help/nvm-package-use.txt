@@ -1,0 +1,15 @@
+C:\
+└── Program Files\
+    └── nvm\
+        └── nodejs\
+            ├── v14.0.0\   # Node.js 14
+            └── v23.0.0\   # Node.js 23
+
+D:\
+└── project1\           # Project 1 directory (Node.js 14)
+    ├── .nvmrc          # "14"
+    └── node_modules\   # Local dependencies for project1
+
+└── project2\           # Project 2 directory (Node.js 23)
+    ├── .nvmrc          # "23"
+    └── node_modules\   # Local dependencies for project2
